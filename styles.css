@@ -1,0 +1,25 @@
+.bd-footer {
+    font-size: .875rem;
+    text-align: center;
+    background-color: #f7f7f7;
+}
+
+.bd-footer p {
+    margin-bottom: 0;
+}
+
+.text-muted {
+    color: #6c757d;
+}
+
+.preview h1 {
+    font-size: 1.5rem;
+}
+
+.preview h2 {
+    font-size: 1.25rem;
+}
+
+.preview h3 {
+    font-size: 1rem;
+}
