@@ -21,7 +21,7 @@ function initialiser(evt) {
     document.getElementById('cookies').addEventListener('input', changeCookies);
     document.getElementById('cookiespartners').addEventListener('input', changeCookiespartners);
     document.getElementById('tracking').addEventListener('input', changeTracking);
-    document.getElementById('geolocalisation').addEventListener('input', changeGeolocalisation);
+    //document.getElementById('geolocalisation').addEventListener('input', changeGeolocalisation);
     document.getElementById('school').addEventListener('input', changeSchool);
 }
 
