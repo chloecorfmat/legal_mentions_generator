@@ -153,7 +153,7 @@ function changeHosturl() {
     });
 }
 
-function hostaddress() {
+function changeHostaddress() {
     var els = document.getElementsByClassName('hostaddress');
 
     Array.prototype.forEach.call(els, function(el) {
