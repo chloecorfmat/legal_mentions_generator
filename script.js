@@ -209,12 +209,12 @@ function changeTracking() {
     if (this.checked) {
         Array.prototype.forEach.call(els, function(el) {
             // Do stuff here
-            el.style.display = "block";
+            el.style.display = "none";
         });
     } else {
         Array.prototype.forEach.call(els, function(el) {
             // Do stuff here
-            el.style.display = "none";
+            el.style.display = "block";
         });
     }
 }

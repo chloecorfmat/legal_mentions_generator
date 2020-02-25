@@ -26,7 +26,6 @@
 
 /** DEFAULT VALUE **/
 .geolocalisation,
-.school,
-.tracking {
+.school {
     display: none;
 }
